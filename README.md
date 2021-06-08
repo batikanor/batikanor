@@ -32,11 +32,34 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
 
 <a href="https://github.com/batikanor/tgu-archive" align="left">tgu-archive ⚡</a> -> An archive for TGU students
 
-<a href="https://github.com/batikanor/upnotify-bot" align="left">upnotify-bot ⚡</a> -> A telegram bot for web update tracking
+<a href="https://github.com/batikanor/upnotify-bot" align="left">upnotify-bot ⚡</a> -> A java telegram bot for web update tracking
 
 <a href="https://github.com/batikanor/website-gatsby-src" align="left">website-gatsby-src ⚡</a> -> Source code of my personal website batikanor.com
 
-... I will list the rest of them later
+<a href="https://github.com/batikanor/cpp-workspace" align="left">cpp-workspac ⚡</a> -> Personal workspace for simple cpp projects 
+
+<a href="https://github.com/batikanor/research" align="left">research ⚡</a> -> This repository will keep templates and publicized papers of the Undergraduate Research Club of Turkish-German University. 
+
+<a href="https://github.com/batikanor/turkishgermanbot" align="left">turkishgermanbot ⚡</a> -> A bot for the telegram groups of the Turkish-German University at Istanbul
+<a href="https://github.com/batikanor/turkalman-utils" align="left">turkalman-utils ⚡</a> -> Utility programs for TAU (TDU/TGU) students 
+
+<a href="https://github.com/Nour0700/homebook" align="left">homebook ⚡</a> -> Android application for homesharing
+
+<a href="https://github.com/batikanor/python-workspace" align="left">python-workspace ⚡</a> -> Personal workspace for simple python projects 
+
+<a href="https://github.com/batikanor/ubistandard-for-quantum-technologies" align="left">ubistandard-for-quantum-technologies ⚡</a> -> My submission for QWorld/QTurkey Quantum Technologies Hackathon Oct/2020 
+
+<a href="https://github.com/batikanor/google-communities-lister" align="left">google-communities-lister ⚡</a> -> Lists some of the google communities that are active in Turkey. This repo was created as part of the final submission to the 2020 Google Developer MultiCamp.
+
+
+<a href="https://github.com/batikanor/website-handcoded" align="left">website-handcoded ⚡</a> -> My old handcoded personal website, currently not being used, accesible via www.batikanor.tk
+
+
+<a href="https://github.com/batikanor/arcelik_hackbot_turk-alman" align="left">arcelik_hackbot_turk-alman ⚡</a> -> First part (java) of our submission for Arcelik Hackbot Hackathon
+
+
+<a href="https://github.com/batikanor/INF202" align="left">INF202 ⚡</a> -> My submission for Course INF202 of TGU. A program that converts excel cells to fields in a java UI which have control rules determined via excel sheet comments.
+
 
 <hr>
 
@@ -46,7 +69,7 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
   </h2>
 <p align="center">
 	<a href="https://github.com/batikanor"><img src="https://img.shields.io/github/followers/batikanor.svg?label=GitHub&style=for-the-badge&logo=github" alt="GitHub"></a>
-	<a href="https://twitter.com/BATIKANORMANCI"><img src="https://img.shields.io/twitter/follow/BATIKANORMANCI?label=Twitter&style=for-the-badge&logo=twitter" alt="Twitter"></a>
+<!-- 	<a href="https://twitter.com/BATIKANORMANCI"><img src="https://img.shields.io/twitter/follow/BATIKANORMANCI?label=Twitter&style=for-the-badge&logo=twitter" alt="Twitter"></a> -->
 	<a href="https://www.linkedin.com/in/batikanor"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&logo=linkedin&label=LinkedIn" alt="LinkedIn"></a>
 <!--   <a href="https://github.com/batikanor"><img src="https://img.shields.io/github/followers/batikanor?label=Followers%20%2F%20ANH%C3%84NGER&style=flat-square" alt="LinkedIn"></a> -->
 </p>
@@ -86,6 +109,7 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Gatsby-1572B6?style=for-the-badge&logo=gatsby&logoColor=white)
 
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -93,6 +117,8 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<img width="500" height="50" src="https://img.shields.io/badge/... AND MUCH MORE! ...-0078D4?style=for-the-badge">
 
 <!-- 
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -115,11 +141,10 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
   <img width="100" height="30" src="https://img.shields.io/badge/Eclipse-02D8D4?style=for-the-badge&logo=eclipse&logoColor=purple">
   <img width="100" height="30" src="https://img.shields.io/badge/Android_Studio-432298?style=for-the-badge&logo=android%20studio&logoColor=green">
   <img width="100" height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-
+<img width="500" height="50" src="https://img.shields.io/badge/... AND MUCH MORE! ...-0078D4?style=for-the-badge">
 </p>
 
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 <p align="center">
   <img width="500" height="150" src="https://github-readme-stats.vercel.app/api?username=batikanor&show_icons=true&theme=nord">
 </p>
