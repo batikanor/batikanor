@@ -162,10 +162,10 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
 
 <hr>
 Dogecoin Adress:
-
+DLdTPfNrQE3g9yckS7kt9hsbp6pyJ73z7b
 
 Bitcoin Adress:
+bc1q5860cmms273j6252pdcfqvtgklsv9cd7cj499j
 
-
-Buy me a coffee:
+(INACTIVE) Buy me a coffee: https://www.buymeacoffee.com/bati 
 
