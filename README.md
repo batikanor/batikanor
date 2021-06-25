@@ -32,7 +32,7 @@ Hey, to learn more about me you can check <a href="https://www.batikanor.com/cv/
 
 20% - IDEA - <a href="https://github.com/batikanor/tgu-archive" align="left">tgu-archive ⚡</a> -> An archive for TGU students
 
-80% - MID DEVELOPMENT - <a href="https://github.com/batikanor/upnotify-bot" align="left">upnotify-bot ⚡</a> -> A java telegram bot for web update tracking
+80% - MID DEVELOPMENT - <a href="https://github.com/batikanor/upnotify_bot" align="left">upnotify_bot ⚡</a> -> A java telegram bot for web update tracking
 
 95% - DEPLOYED - <a href="https://github.com/batikanor/website-gatsby-src" align="left">website-gatsby-src ⚡</a> -> Source code of my personal website batikanor.com
 
