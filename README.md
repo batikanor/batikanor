@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### This page is not up to date! Please check batikanor.com/cv instead.
 <!--
 **batikanor/batikanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
